@@ -18,6 +18,10 @@ SO THAT I can organize and plan my business</br>
 
 ## Walkthrough video
 
+
+https://user-images.githubusercontent.com/16517540/205086517-c7687d4b-0e07-4d62-9c39-a1685462fb11.mp4
+
+
 ## Credits
 ### Author
 
