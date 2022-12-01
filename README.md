@@ -1,33 +1,25 @@
-# Employee-Tracker (CMS)
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-
+# Challenge12-coding
+</br>
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/bleachevil/Challenge12-coding?style=for-the-badge" alt="Languages" />
+    <img src="https://img.shields.io/github/languages/top/bleachevil/Challenge12-coding?style=for-the-badge" alt="Top Language" />
+    <img src="https://img.shields.io/github/languages/code-size/bleachevil/Challenge12-coding?style=for-the-badge" alt="Code Size" />
+    <img src="https://img.shields.io/github/repo-size/bleachevil/Challenge12-coding?style=for-the-badge" alt="Repo Size" />   
+ </p>
 ## Description 
-A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS).
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
 
-## Installation 
-The user should clone the repository from GitHub. This application requires Node.js, Inquirer, console.table and mysql2. To start application run `npm start`. To view database from MySQL `run mysql -u root -p`. 
+## User Story
+AS A business owner</br>
+I WANT to be able to view and manage the departments, roles, and employees in my company</br>
+SO THAT I can organize and plan my business</br>
 
-## Usage 
-This application will allow users to view, add, and edit employees, roles, departments, and managers. 
 
-View walk through video via [Screencastify](https://drive.google.com/file/d/1EZxRHzvoLcZ05NXtWYuhVnWjsJcH-9DU/view)
+## Walkthrough video
 
-## License 
-This project is license under MIT
+## Credits
+### Author
 
-## Contributing 
-Contributors should read the installation section. 
+- Jeff Zhang: [portfolio](https://bleachevil.github.io/)
 
-## Tests
-There are no tests for this application. 
-
-## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
